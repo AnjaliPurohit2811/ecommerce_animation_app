@@ -8,7 +8,8 @@ Welcome to the eCommerce Application with Animation repository! This project is 
 
 Check out the live demo of the application here: 
 
-https://github.com/user-attachments/assets/77a214a9-4597-4c88-b6da-c36c52a8754e
+https://github.com/user-attachments/assets/59c996a1-966a-4e7f-b8fb-6f0574ff5135
+
 
 
 
